@@ -1,0 +1,6 @@
+@charset "utf-8";
+body{background-color: black; color: red;}
+div#x1 {color: aqua;}
+#x2 {color: rgba(230, 36, 36, 0.801);}
+
+
